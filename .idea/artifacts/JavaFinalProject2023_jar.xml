@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="JavaFinalProject2023:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/JavaFinalProject2023_jar</output-path>
-    <root id="archive" name="JavaFinalProject2023.jar">
-      <element id="module-output" name="JavaFinalProject2023" />
-    </root>
-  </artifact>
-</component>
